@@ -1,6 +1,6 @@
 ## Hi there, I'm Yurick
 
-Software Engineer, specializing in high-throughput distributed systems and financial infrastructure. Currently optimizing mission-critical pipelines at Itaú Unibanco.
+Software Engineer. Specializing in high-throughput distributed systems and financial infrastructure. Currently optimizing mission-critical pipelines at Itaú Unibanco.
 
 🛠 Tech Stack & Ecosystem
 
