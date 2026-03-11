@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Yurick
 
-<!--
-**yurickgomes/yurickgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer
+Specializing in high-throughput distributed systems and financial infrastructure. Currently optimizing mission-critical pipelines at Itaú Unibanco.
 
-Here are some ideas to get you started:
+🛠 Tech Stack & Ecosystem
+Languages: Java, Kotlin, Python, Go (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Infrastructure: AWS, Kubernetes, Terraform
+
+Data & Messaging: Event-driven design, NoSQL, RDBMS, Redis, Valkey
+
+🚀 Engineering Focus
+Scalability and Resiliency: Designing systems to handle millions of financial transactions with sub-second latency.
