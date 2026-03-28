@@ -16,5 +16,4 @@ Scalability and Resiliency: Designing systems to handle millions of financial tr
 
 🔨 Open Source Projects
 
-Check it out my lightweight and free gradle plugin to generate java classes from avro schema .avsc files, [gradle-avro-plugin](https://github.com/flumennigrum/gradle-avro-plugin)
-
+* [gradle-avro-plugin](https://github.com/flumennigrum/gradle-avro-plugin) - check it out my lightweight and free gradle plugin to generate java classes from avro schema .avsc files.
