@@ -4,11 +4,11 @@ Software Engineer. Specializing in high-throughput distributed systems and finan
 
 🛠 Tech Stack & Ecosystem
 
-Languages: Java, Kotlin, Python, Go (Learning)
+Languages: Java, Kotlin, Python, Go
 
 Infrastructure: AWS, Kubernetes, Terraform
 
-Data & Messaging: Event-driven design, NoSQL, RDBMS, Redis, Valkey
+Data & Messaging: Event-driven design, NoSQL, RDBMS, Cache
 
 🚀 Engineering Focus
 
